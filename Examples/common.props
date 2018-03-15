@@ -1,0 +1,6 @@
+<Project>
+    <PropertyGroup>
+        <LangVersion>7.2</LangVersion>
+        <RuntimeIdentifiers>linux-arm</RuntimeIdentifiers>
+    </PropertyGroup>
+</Project>
