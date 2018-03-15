@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{70
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "Examples\HelloWorld\HelloWorld.csproj", "{DAFE37CB-03D8-44B3-989B-ED70899E65A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LEDBlink", "Examples\LEDBlink\LEDBlink.csproj", "{EF9BAA5C-1FBF-4E08-9DC0-464076C20F50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{DAFE37CB-03D8-44B3-989B-ED70899E65A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAFE37CB-03D8-44B3-989B-ED70899E65A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAFE37CB-03D8-44B3-989B-ED70899E65A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9BAA5C-1FBF-4E08-9DC0-464076C20F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9BAA5C-1FBF-4E08-9DC0-464076C20F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9BAA5C-1FBF-4E08-9DC0-464076C20F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9BAA5C-1FBF-4E08-9DC0-464076C20F50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DAFE37CB-03D8-44B3-989B-ED70899E65A8} = {700D57C5-7517-46F6-BD90-2871840F9BD2}
+		{EF9BAA5C-1FBF-4E08-9DC0-464076C20F50} = {700D57C5-7517-46F6-BD90-2871840F9BD2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F3B37132-3A87-4839-BCC0-2D1216FD933E}
